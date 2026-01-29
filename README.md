@@ -1,10 +1,18 @@
-AI & Backend Engineer  
-Python · Rust · RAG Systems · LLM Infrastructure
+# Hi, I'm Aleksey 👋
+## Senior AI & Backend Engineer
 
-Building production-grade RAG systems with a focus on latency, retrieval quality, and observability.
+I build production-grade RAG systems where performance isn't an afterthought. 
+Specializing in bridging the gap between heavy Python AI ecosystems and high-performance Rust backends.
 
-**Stack:**  
-Python (FastAPI, AsyncIO), Rust (Tokio, PyO3, Candle), Qdrant, LangChain/LangGraph, PyTorch, Docker, AWS
+---
 
-**Focus:**  
-RAG architectures · Hybrid Retrieval · LLM evals · High-performance inference
+### 🚀 What I'm focusing on:
+- **LLM Infrastructure:** Building scalable inference pipelines with `Candle` and `PyO3`.
+- **Advanced Retrieval:** Implementing Hybrid Search, Re-ranking, and Context Compression.
+- **Observability:** Setting up evaluation loops to turn "vibe-based" AI into measurable engineering.
+
+### 🛠 Tech Stack:
+- **Backend:** Python (FastAPI, AsyncIO), Rust (Tokio, Axum)
+- **Vector DBs:** Qdrant, Weaviate, pgvector
+- **AI Tools:** LangGraph, PyTorch, Ollama, vLLM
+- **DevOps:** AWS (ECS/EKS), Docker, GitHub Actions
