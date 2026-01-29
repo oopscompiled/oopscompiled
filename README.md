@@ -1,4 +1,3 @@
-# Hi, I'm Aleksey 👋
 ## Senior AI & Backend Engineer
 
 I build production-grade RAG systems where performance isn't an afterthought. 
