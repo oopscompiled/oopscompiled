@@ -5,13 +5,8 @@ Specializing in bridging the gap between heavy Python AI ecosystems and high-per
 
 ---
 
-### 🚀 What I'm focusing on:
-- **LLM Infrastructure:** Building scalable inference pipelines with `Candle` and `PyO3`.
-- **Advanced Retrieval:** Implementing Hybrid Search, Re-ranking, and Context Compression.
-- **Observability:** Setting up evaluation loops to turn "vibe-based" AI into measurable engineering.
-
-### 🛠 Tech Stack:
-- **Backend:** Python (FastAPI, AsyncIO), Rust (Tokio, Axum)
-- **Vector DBs:** Qdrant, Weaviate, pgvector
-- **AI Tools:** LangGraph, PyTorch, Ollama, vLLM
-- **DevOps:** AWS (ECS/EKS), Docker, GitHub Actions
+### What I offer:
+- **LLM Infrastructure:** Building scalable inference pipelines.
+- **ML & AI System Design:** Developing a customized strategy that aligns with business objectives and ensures scalability.
+- **Optimization:** Enhancing code & inference optimization, unlocking actionable insights to optimize system performance.
+- **Observability:** Setting up evaluation loops into measurable engineering.
