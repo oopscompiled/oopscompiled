@@ -1,4 +1,4 @@
-## AI & Backend Engineer
+## ML Engineer
 
 I build production-grade ML & AI systems where performance isn't an afterthought. 
 Specializing in bridging the gap between heavy Python AI ecosystems and high-performance Rust backends.
