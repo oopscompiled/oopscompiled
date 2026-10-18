@@ -1,12 +1,10 @@
 ## ML Engineer
 
-I build production-grade ML & AI systems where performance isn't an afterthought. 
-Specializing in bridging the gap between heavy Python AI ecosystems and high-performance Rust backends.
+I build production ML and AI security systems where latency and reliability aren't an afterthought. My work sits at the intersection of **model internals** (fine-tuning, adversarial robustness, mechanistic interpretability) and **systems engineering** (eliminating Python bottlenecks with asynchronous Rust runtimes).
 
 ---
 
-### What I offer:
-- **LLM Infrastructure:** Building scalable inference pipelines.
-- **ML & AI System Design:** Developing a customized strategy that aligns with business objectives and ensures scalability.
-- **Optimization:** Enhancing code & inference optimization, unlocking actionable insights to optimize system performance.
-- **Observability:** Setting up evaluation loops into measurable engineering.
+#### Engineering Focus
+* **AI Security & Guardrails:** Pre-execution interception of prompt injections, tool-call abuse, and data exfiltration across multi-step agent trajectories under strict false-positive budgets (`≤0.8% FPR` at `97% recall`).
+* **Low-Latency Inference:** Porting latency-critical RAG and guardrail pipelines to async Rust (`Candle`, `Tokio`, `PyO3`), graph optimization (`ONNX Runtime`), and post-training quantization to keep p95 latency sub-150ms.
+* **Adversarial & Mechanistic Evaluation:** Fine-tuning open-weight LLMs and compact encoders (`SFT`, `QLoRA`, hard-negative mining), cost-sensitive threshold calibration, and probing model activations to understand *why* guardrails fail.
