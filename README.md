@@ -6,4 +6,4 @@ I build ML systems that help products make reliable decisions in real time—fro
 
 - **Risk & AI Security:** Building systems that detect abuse, prompt injection, and unauthorized AI actions before they cause harm, while keeping false positives under control.
 - **Production Performance:** Removing inference and infrastructure bottlenecks so ML systems can handle real-world traffic and meet latency requirements.
-- **Model Reliability:** Improving model performance on rare and adversarial cases through targeted data collection, evaluation, and calibration—and monitoring how performance changes over time.
+- **Model Reliability:** Improving model performance on rare and adversarial cases through targeted data collection, evaluation, and calibration, and monitoring how performance changes over time.
